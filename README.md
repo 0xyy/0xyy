@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tommy
 - 👀 I’m interested in programming 💻, music 🎵 and cars 🚗
-- 🌱 I’m currently learning JavaScript, React, and Node.js
+- 🌱 I’m currently learning React.js with TypeScript and NestJS
 - 💞️ I’m looking to collaborate on ... I'm still learning 📚
 - 📫 How to reach me? via email - tommyphan2004.tp@gmail.com or discord - 0xy#2276
 - 💼 My LinkedIn - https://www.linkedin.com/in/tommy-phan-3710451bb/
