@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tommy
 - 👀 I’m interested in programming 💻, music 🎵 and cars 🚗
 - 🌱 I’m currently learning React.js with TypeScript and NestJS
-- 💞️ I'm looking for a job or internship 📚
+- 💞️ I'm looking for a job or an internship 📚
 - 📫 How to reach me? via email - tommyphan2004.tp@gmail.com or LinkedIn
 - 💼 My LinkedIn - https://www.linkedin.com/in/tommy-phan-3710451bb/
 - 🔫 My Codewars - https://www.codewars.com/users/0xyy
