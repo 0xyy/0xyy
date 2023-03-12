@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning Angular ❤️  
   
-- 📚 I’m a 4th year student at a professional technical school in Cracow with a focus in IT  
+- 📚 I’m a 4th year student at a professional technical school in Cracow with a focus in IT 🧙‍♂️
   
 - ⚡ One of my dreams is to adopt a Shiba Inu dog 🦮  
   
