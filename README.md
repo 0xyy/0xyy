@@ -1,4 +1,4 @@
-# <div align="center">I'm Tommy👨‍💻, a junior full-stack developer at [Nebucode💜](https://www.nebucode.com/)</div>  
+# <div align="center">Hi👋 I'm Tommy👨‍💻, a junior full-stack developer at [Nebucode💜](https://www.nebucode.com/)</div>  
   
 <br/>  
 
