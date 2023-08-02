@@ -47,6 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false&username=0xyy" height="150" alt="languages graph"  />
 </div>
 
-### <div align="center">🎵🎵🎵</div>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11151379716&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>
