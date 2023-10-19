@@ -1,4 +1,4 @@
-# <h2 align="center">Hi👋 I'm Tommy👨‍💻, a Junior Full Stack Developer at [Nebucode💜](https://www.nebucode.com/)</h2>
+# <h2 align="center">Hi👋 I'm Tommy👨‍💻, a Junior Full Stack Developer</h2>
 
 ###
 
