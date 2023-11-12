@@ -20,7 +20,7 @@
 
 ###
 
-<h4 align="center">👀 I’m interested in programming 💻, music 🎵 and german automotive 🚗<br><br>🌱 I’m currently improving my skills in React.js and NestJS ❤️<br><br>📚 I’m a 4th year student at a professional technical school in Cracow with a focus in IT 🧙‍♂️<br><br>⚡ One of my dreams is to adopt a Shiba Inu dog 🦮</h4>
+<h4 align="center">👀 I’m interested in programming 💻, music 🎵 and german automotive 🚗<br><br>🌱 I’m currently improving my skills in React.js and NestJS ❤️<br><br>📚 I’m a first year student and I have a great desire to continue growing and learning. 🧙‍♂️<br><br>⚡ One of my dreams is to adopt a Shiba Inu dog 🦮</h4>
 
 ###
 
