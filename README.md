@@ -27,16 +27,64 @@
 <br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" width="54" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" width="54" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="34" width="54" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" width="54" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="34" width="54" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" width="54" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="34" width="54" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="34" width="54" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="34" width="54" alt="nestjs logo"  />
+
+ <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+
+ <img width="12" />
+
+ <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
+
+ <img width="12" />
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+
 </div>
+
+
 
 ###
 
