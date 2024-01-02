@@ -21,7 +21,7 @@
 
 ###
 
-<h4 align="center">👀 I’m interested in programming 💻, music 🎵 and german automotive 🚗<br><br>🌱 I’m currently improving my skills in React.js and NestJS ❤️<br><br>📚 I’m a first year student and I have a great desire to continue growing and learning. 🧙‍♂️<br><br>⚡ One of my dreams is to adopt a Shiba Inu dog 🦮</h4>
+<h4 align="center">👀 I’m interested in programming 💻, music 🎵 and german automotive 🚗<br><br>🌱 I'm currently expanding my knowledge in frontend development (React.js, Next.js 14)<br><br>📚 I’m a first year student and I have a great desire to continue growing and learning. 🧙‍♂️<br><br>⚡ One of my dreams is to adopt a Shiba Inu dog 🦮</h4>
 
 ###
 
