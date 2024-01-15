@@ -1,4 +1,4 @@
-# <h2 align="center">Hi👋 I'm <a href="https://tommyphan.dev/" target="_blank">Tommy</a>👨‍💻, a Junior Full Stack Developer</h2>
+# <h2 align="center">Hi👋  I'm <a href="https://tommyphan.dev/" target="_blank">Tommy</a>👨‍💻, a Junior Full Stack Developer</h2>
 
 ###
 
