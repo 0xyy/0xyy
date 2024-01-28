@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=0xy#2276&color=03045e&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
 </a>
 
-## 🚀 About Me
+## 🚀 About me
 📈 I develop user interfaces, web applications and more! I'm a college freshman with over one year of working experience in the industry and a great desire to keep growing 
 
 👩‍💻 I'm currently working on something special
@@ -27,7 +27,7 @@
 
 ###
 
-## 🛠 Knowledge of
+## 🛠 I have knowledge of
 
 <div>
 
