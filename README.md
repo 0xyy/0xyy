@@ -1,4 +1,4 @@
-# Hi, I'm <a href="https://tommyphan.dev/" target="_blank">Tommy</a>👋 I'm Full Stack Developer 👨‍💻
+# Hi, I'm <a href="https://tommyphan.dev/" target="_blank">Tommy</a>👋 I'm Frontend Developer 👨‍💻
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tommyphan.dev/)
